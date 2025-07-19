@@ -215,7 +215,7 @@ This project is part of the 42 School curriculum. The code is written for educat
 
 ---
 
-**Author**: [Your Name]  
+**Author**: amineelhassak  
 **School**: 42 School  
 **Project**: Cub3D  
 **Date**: 2024
